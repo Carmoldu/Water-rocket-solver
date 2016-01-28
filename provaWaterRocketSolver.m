@@ -1,0 +1,1 @@
+[h, Thrust, Acc, Mwater, Mair, Vexhaust, massFlow,P,Weight, t ]=waterRocketSolver(1.5,0.5,0.03,0.1,300000,100000,0,0.3,1000,1.225);
